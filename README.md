@@ -1,5 +1,8 @@
 # WeblogAnalyzer-Onelog
-This is a personal project that I give to community under this licence:
+This is a personal project that I give to community under this licence.
+
+The project description (Only inFrench sorry) can be found at this url:
+http://www.creationlogiciel.net/WebLogAnalyzer.html
 
 Copyright 2016 Eric Buso (Alias Caine_dvp)
 
